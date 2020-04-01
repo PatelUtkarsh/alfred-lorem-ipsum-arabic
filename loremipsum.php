@@ -1,11 +1,12 @@
 <?php
 
-use joshtronic\LoremIpsum;
+use utkarsh\LoremIpsumArabic;
 use Alfred\Workflows\Workflow;
 
 require __DIR__ . '/vendor/autoload.php';
+require __DIR__ . '/LoremIpsumArabic.php';
 
-$lipsum = new LoremIpsum;
+$lipsum = new LoremIpsumArabic();
 $workflow = new Workflow;
 
 $type = $argv[1];

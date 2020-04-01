@@ -1,17 +1,16 @@
 {
-    "name": "tillkruss/alfred-lorem-ipsum",
-    "description": "An ultra-fast Lorem Ipsum workflow for Alfred 3",
+    "name": "utkarsh/alfred-lorem-ipsum-arabic",
+    "description": "An ultra-fast Lorem Ipsum Arabic workflow for Alfred 3",
     "version": "0.2.0",
     "type": "library",
-    "keywords": ["alfred", "alfred-workflow", "lorem-ipsum"],
-    "homepage": "https://till.im",
+    "keywords": ["alfred", "alfred-workflow", "lorem-ipsum-arabic"],
+    "homepage": "https://utkarshpatel.com",
     "support": {
-        "source": "https://github.com/tillkruss/alfred-lorem-ipsum",
-        "issues": "https://github.com/tillkruss/alfred-lorem-ipsum/issues"
+        "source": "https://github.com/utkarsh/alfred-lorem-ipsum-arabic",
+        "issues": "https://github.com/utkarsh/alfred-lorem-ipsum-arabic/issues"
     },
     "license": "MIT",
     "require": {
-        "joetannenbaum/alfred-workflow": "^0.1.0",
-        "joshtronic/php-loremipsum": "^1.0"
+        "joetannenbaum/alfred-workflow": "^0.1.0"
     }
 }

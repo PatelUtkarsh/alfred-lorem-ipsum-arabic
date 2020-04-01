@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>bundleid</key>
-	<string>com.tillkruss.loremipsum</string>
+	<string>com.utkarsh.loremipsumarabic</string>
 	<key>category</key>
 	<string>Tools</string>
 	<key>connections</key>
@@ -74,13 +74,13 @@
 		</array>
 	</dict>
 	<key>createdby</key>
-	<string>Till Krüss</string>
+	<string>Utkarsh Patel</string>
 	<key>description</key>
-	<string>An ultra-fast Lorem Ipsum text generator</string>
+	<string>An ultra-fast Lorem Ipsum Arabic text generator</string>
 	<key>disabled</key>
 	<false/>
 	<key>name</key>
-	<string>Lorem Ipsum</string>
+	<string>Lorem Ipsum Arabic</string>
 	<key>objects</key>
 	<array>
 		<dict>
@@ -97,7 +97,7 @@
 				<key>escaping</key>
 				<integer>127</integer>
 				<key>keyword</key>
-				<string>lorem words</string>
+				<string>arlorem words</string>
 				<key>queuedelaycustom</key>
 				<integer>3</integer>
 				<key>queuedelayimmediatelyinitially</key>
@@ -115,7 +115,7 @@
 				<key>scriptfile</key>
 				<string></string>
 				<key>subtext</key>
-				<string>Generate 7 words...</string>
+				<string>Generate 7 Arabic words...</string>
 				<key>title</key>
 				<string>Words</string>
 				<key>type</key>
@@ -161,7 +161,7 @@
 				<key>escaping</key>
 				<integer>127</integer>
 				<key>keyword</key>
-				<string>lorem sentences</string>
+				<string>arlorem sentences</string>
 				<key>queuedelaycustom</key>
 				<integer>3</integer>
 				<key>queuedelayimmediatelyinitially</key>
@@ -179,7 +179,7 @@
 				<key>scriptfile</key>
 				<string></string>
 				<key>subtext</key>
-				<string>Generate 3 sentences...</string>
+				<string>Generate 3 Arabic sentences...</string>
 				<key>title</key>
 				<string>Sentences</string>
 				<key>type</key>
@@ -237,7 +237,7 @@
 				<key>escaping</key>
 				<integer>127</integer>
 				<key>keyword</key>
-				<string>lorem paragraphs</string>
+				<string>arlorem paragraphs</string>
 				<key>queuedelaycustom</key>
 				<integer>3</integer>
 				<key>queuedelayimmediatelyinitially</key>
@@ -255,7 +255,7 @@
 				<key>scriptfile</key>
 				<string></string>
 				<key>subtext</key>
-				<string>Generate 3 paragraphs...</string>
+				<string>Generate 3 Arabic paragraphs...</string>
 				<key>title</key>
 				<string>Paragraphs</string>
 				<key>type</key>
@@ -321,6 +321,6 @@
 	<key>version</key>
 	<string>0.2.0</string>
 	<key>webaddress</key>
-	<string>https://till.im</string>
+	<string>https://utkarshpatel.com</string>
 </dict>
 </plist>
